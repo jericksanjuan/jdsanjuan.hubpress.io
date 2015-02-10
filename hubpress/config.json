@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "jericksanjuan",
-    "repositoryName": "jericksanjuan.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"jericksanjuan","repositoryName":"jericksanjuan.github.io","branch":"master"},"site":{"url":"http://jericksanjuan.github.io"},"socialnetwork":{"email":"jericksanjuan@gmail.com","twitter":"https://twitter.com/jericksanjuan","facebook":"https://www.facebook.com/jdsanjuan"},"theme":{"name":"Casper","url":"http://jericksanjuan.github.io/themes/Casper"}}
